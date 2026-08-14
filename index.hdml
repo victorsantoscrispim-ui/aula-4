@@ -1,1 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Revolução Inglesa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Blog sobre a Revolução Inglesa</h1>
+        <p>Explorando as transformações políticas, sociais e religiosas do século XVII na Inglaterra</p>
+    </header>
+    <main>
+        <article>
+            <img src="imagem-post1.png"
+                alt="Ilustração do rei Carlos I da Inglaterra em traje real do século XVII em estilo miniatura quadrada.">
+            <div>
+                <h2>O Início da Crise: Rei x Parlamento</h2>
+                <p class="artigo-autor">Por: Victor Matheus</p>
+                <p>O conflito entre o rei Carlos I e o Parlamento inglês começou quando o monarca tentou governar de forma absolutista, impondo impostos sem a aprovação parlamentar.</p>
+
+                <p class="artigo-fonte">Fonte: História Viva</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-post2.png"
+                alt="Ilustração de soldados do Exército de Novo Tipo (New Model Army) com capacetes e armaduras.">
+            <div>
+                <h2>A Guerra Civil Inglesa (1642–1651)</h2>
+                <p class="artigo-autor">Por: Victor Matheus</p>
+
+                <p>O país se dividiu entre os Cavaleiros (partidários do rei) e os "Cabeças Redondas" (apoiadores do Parlamento), culminando na derrota e execução de Carlos I em 1649.</p>
+
+                <p class="artigo-fonte">Fonte: Toda Matéria</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-post3.png"
+                alt="Ilustração em perfil de Oliver Cromwell com traje militar parlamentarista.">
+            <div>
+                <h2>A República de Oliver Cromwell</h2>
+                <p class="artigo-autor">Por: Victor Matheus</p>
+                <p>Com o fim da monarquia, Oliver Cromwell assumiu o poder estabelecendo a Commonwealth e, mais tarde, uma ditadura pessoal como Lorde Protetor da Inglaterra.</p>
+
+                <p class="artigo-fonte">Fonte: Mundo Educação</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-post4.png"
+                alt="Ilustração de navios mercantes ingleses no oceano simbolizando os Atos de Navegação.">
+            <div>
+                <h2>Os Atos de Navegação de 1651</h2>
+                <p class="artigo-autor">Por: Victor Matheus</p>
+                <p>Decretados por Cromwell, os Atos determinaram que mercadorias importadas para a Inglaterra só pudessem ser transportadas por navios ingleses, fortalecendo a economia mercantilista.</p>
+
+                <p class="artigo-fonte">Fonte: Brasil Escola</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-post5.png"
+                alt="Ilustração de uma coroa real sobre um veludo preto representando a Restauração Monárquica.">
+            <div>
+                <h2>A Restauração Monárquica</h2>
+                <p class="artigo-autor">Por: Victor Matheus</p>
+                <p>Após a morte de Cromwell, a monarquia foi restaurada em 1660 com a ascensão de Carlos II, mas as tensões entre o poder do rei e as liberdades parlamentares continuaram.</p>
+
+                <p class="artigo-fonte">Fonte: InfoEscola</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-post6.png"
+                alt="Ilustração do documento Bill of Rights (Declaração de Direitos) com pena e selo real.">
+            <div>
+                <h2>A Revolução Gloriosa e a Bill of Rights</h2>
+                <p class="artigo-autor">Por: Victor Matheus</p>
+                <p>Em 1688, Jaime II foi deposto sem derramamento de sangue. Guilherme III assumiu após assinar a Bill of Rights, consolidando a Monarquia Parlamentarista na Inglaterra.</p>
+
+                <p class="artigo-fonte">Fonte: História do Mundo</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
